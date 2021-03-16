@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/LaslesVPN-MarkUp/static/css/main.20079c68.chunk.css",
+    "main.js": "/LaslesVPN-MarkUp/static/js/main.7ddd1b9c.chunk.js",
+    "main.js.map": "/LaslesVPN-MarkUp/static/js/main.7ddd1b9c.chunk.js.map",
+    "runtime-main.js": "/LaslesVPN-MarkUp/static/js/runtime-main.cbc5f1dd.js",
+    "runtime-main.js.map": "/LaslesVPN-MarkUp/static/js/runtime-main.cbc5f1dd.js.map",
+    "static/js/2.b8311210.chunk.js": "/LaslesVPN-MarkUp/static/js/2.b8311210.chunk.js",
+    "static/js/2.b8311210.chunk.js.map": "/LaslesVPN-MarkUp/static/js/2.b8311210.chunk.js.map",
+    "index.html": "/LaslesVPN-MarkUp/index.html",
+    "static/css/main.20079c68.chunk.css.map": "/LaslesVPN-MarkUp/static/css/main.20079c68.chunk.css.map",
+    "static/js/2.b8311210.chunk.js.LICENSE.txt": "/LaslesVPN-MarkUp/static/js/2.b8311210.chunk.js.LICENSE.txt",
+    "static/media/Server.323a2875.svg": "/LaslesVPN-MarkUp/static/media/Server.323a2875.svg",
+    "static/media/about-img.bf3a41be.png": "/LaslesVPN-MarkUp/static/media/about-img.bf3a41be.png",
+    "static/media/amazon.844bee17.svg": "/LaslesVPN-MarkUp/static/media/amazon.844bee17.svg",
+    "static/media/bullet.0fbcd008.svg": "/LaslesVPN-MarkUp/static/media/bullet.0fbcd008.svg",
+    "static/media/check.32f27d41.svg": "/LaslesVPN-MarkUp/static/media/check.32f27d41.svg",
+    "static/media/discord.d3f2db43.svg": "/LaslesVPN-MarkUp/static/media/discord.d3f2db43.svg",
+    "static/media/global.2191553c.png": "/LaslesVPN-MarkUp/static/media/global.2191553c.png",
+    "static/media/header-img.6bc2dc1e.png": "/LaslesVPN-MarkUp/static/media/header-img.6bc2dc1e.png",
+    "static/media/location.a4285534.svg": "/LaslesVPN-MarkUp/static/media/location.a4285534.svg",
+    "static/media/logo.535550d9.svg": "/LaslesVPN-MarkUp/static/media/logo.535550d9.svg",
+    "static/media/netflix.4e99812b.svg": "/LaslesVPN-MarkUp/static/media/netflix.4e99812b.svg",
+    "static/media/planItemBox.f8904990.png": "/LaslesVPN-MarkUp/static/media/planItemBox.f8904990.png",
+    "static/media/reddit.209547ea.svg": "/LaslesVPN-MarkUp/static/media/reddit.209547ea.svg",
+    "static/media/spotify.33b28d0e.svg": "/LaslesVPN-MarkUp/static/media/spotify.33b28d0e.svg",
+    "static/media/user.68a94e35.svg": "/LaslesVPN-MarkUp/static/media/user.68a94e35.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbc5f1dd.js",
+    "static/js/2.b8311210.chunk.js",
+    "static/css/main.20079c68.chunk.css",
+    "static/js/main.7ddd1b9c.chunk.js"
+  ]
+}
